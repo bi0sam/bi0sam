@@ -5,10 +5,6 @@
   <img src="assets/banner.gif" width="100%" alt="Banner animado">
 </p>
 
-<h1 align="center">Olá, eu sou a Samantha 👋</h1>
-...
-
-
 <h1 align="center">Hello,I am Samantha 👋</h1>
 
 <p align="center">
