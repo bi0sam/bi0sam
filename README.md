@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="README.md" width="100%" alt="Banner animado">
+  <img src="bi0sam/gif" width="100%" alt="Banner animado">
 </p>
 
 <h1 align="center">Hello,I am Samantha 👋</h1>
