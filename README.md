@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<!-- Banner -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" width="100%" alt="Banner">
+  <img src="assets/banner.gif" width="100%" alt="Banner animado">
 </p>
+
+<h1 align="center">Olá, eu sou a Samantha 👋</h1>
+...
+
 
 <h1 align="center">Hello,I am Samantha 👋</h1>
 
