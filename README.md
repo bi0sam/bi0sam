@@ -52,9 +52,9 @@ My main hobby is building computers :)
 ### 🏷️ Fields that interest me
 
 <p>
-  <img src="https://img.shields.io/badge/Forensic Expertise-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Compliance-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Digital Law-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Books-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Technologies-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Physics-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cybersecurity-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LGPD-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hardware Geek-yellow?style=flat-square"/>
 </p>
