@@ -40,7 +40,9 @@ My main hobby is building computers :)
 
 ### 📫 How to find me
 
-<p align="center">
+### 📫 How to find me
+
+<p>
   <a href="https://www.linkedin.com/in/samantha-cristina-6a09b7187" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
