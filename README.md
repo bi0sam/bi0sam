@@ -3,7 +3,8 @@
 </p>
 
 
-<h1 align="center">Hello,I am Samantha 👋</h1>
+<h1 align="center">Hello,I am Samantha 👋
+Nice to meet you.</h1>
 
 <p align="center">
   🧠 Cyber Law | ⚖️ Digital Forensics | 🛡️ Cyber Defense 
